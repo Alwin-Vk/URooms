@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>959603904653-rg0pjbtui34kvgfql9osal457691o742.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.959603904653-rg0pjbtui34kvgfql9osal457691o742</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBigBU0ZIcz0ZjTfoIBSbxBilOjGd7ViIw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>959603904653</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>alwin.RoomReserve</string>
+	<key>PROJECT_ID</key>
+	<string>roombooking-a69d8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roombooking-a69d8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:959603904653:ios:e0d7c2b2ba8d16b20d92c4</string>
+	<key>DATABASE_URL</key>
+	<string>https://roombooking-a69d8.firebaseio.com</string>
+</dict>
+</plist>

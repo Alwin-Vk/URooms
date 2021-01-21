@@ -1,0 +1,6 @@
+framework module Pods_RoomReserveTests {
+  umbrella header "Pods-RoomReserveTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
